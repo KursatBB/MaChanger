@@ -3,7 +3,7 @@
  I simply used the class structure, although it is not necessary to use it as I want to keep my knowledge fresh.
 # Usage
 
- --i     / Interface name <br>
+ --i      / Interface name <br>
  --m     / New MAC address <br>
 
   FOR EXAMPLE
