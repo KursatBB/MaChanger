@@ -20,5 +20,4 @@ if __name__ == '__main__':
     elif  os=="Darwin":
         MaChanger.macMac(args.i,args.m)
     elif  os=="Windows":
-        print("On Maintance")
-        #MaChanger.winMac(args.i, args.m)
+        MaChanger.windowsMac(args.i, args.m)
