@@ -1,7 +1,8 @@
 # MaChanger
  MAC address changer for linux and macOS.
  I simply used the class structure, although it is not necessary to use it as I want to keep my knowledge fresh.
-# Usage
+# Usage <br>
+You should be root for use this script.
 
  --i&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Interface name <br>
  --m&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-New MAC address <br>
